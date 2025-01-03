@@ -1,0 +1,16 @@
+custom-config:
+  jwt:
+    secret: jwt secret string
+spring:
+  application:
+    name: springboot-shiro-jwt-redis-demo
+  data:
+    redis:
+      host: 127.0.0.1
+      port: 6379
+      password:
+      database: 2
+server:
+  port: 65003
+  servlet:
+    context-path: /springboot-shiro-jwt-redis-demo
