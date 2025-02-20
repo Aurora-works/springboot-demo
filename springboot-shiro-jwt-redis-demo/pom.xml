@@ -14,7 +14,7 @@
 
     <properties>
         <shiro.version>2.0.2</shiro.version>
-        <java-jwt.version>4.4.0</java-jwt.version>
+        <java-jwt.version>4.5.0</java-jwt.version>
     </properties>
 
     <dependencies>
